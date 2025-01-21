@@ -10,7 +10,7 @@
 
 # production
 /build
-Favorites App.exe
+FavoritesApp.exe
 
 # misc
 .DS_Store
